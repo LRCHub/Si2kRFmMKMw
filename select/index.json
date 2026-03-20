@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "No Life Queen（feat. Nana Takahashi）",
+  "base_artist": "SOUND HOLIC",
+  "createdAt": "2026-03-20T15:01:27.264427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Life Queen (feat. Nana Takahashi)",
+      "artist": "SOUND HOLIC",
+      "has_synced": false,
+      "path": "select/01_No_Life_Queen_(feat._Nana_Takahashi)_SOUND_HOLIC.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Life Queen (feat. Nana Takahashi)",
+      "artist": "SOUND HOLIC; Nana Takahashi",
+      "has_synced": false,
+      "path": "select/02_No_Life_Queen_(feat._Nana_Takahashi)_SOUND_HOLIC;_Nana_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Life Queen (feat. Nana Takahashi)",
+      "artist": "SOUND HOLIC feat. Nana Takahashi",
+      "has_synced": false,
+      "path": "select/03_No_Life_Queen_(feat._Nana_Takahashi)_SOUND_HOLIC_feat._Nana_Takahashi.txt"
+    }
+  ]
+}
